@@ -1,0 +1,69 @@
+{
+    "name": "Carrier 3D [alpha] v0.18.8",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "palette": "*",
+        "controller": "*",
+        "platformer": "github:waffles1937/platformer#master"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "triangle.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.3.44",
+        "tag": "v1.3.44",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/d1e057830c0eebc87e3e400f2106c8e1f0e5a077",
+        "target": "1.8.29",
+        "pxt": "6.8.33",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#333333",
+        "#555555",
+        "#777777",
+        "#999999",
+        "#bbbbbb",
+        "#dddddd",
+        "#ffffff",
+        "#004499",
+        "#eeee00",
+        "#00cc00",
+        "#dd0000",
+        "#eeeebb",
+        "#558800",
+        "#ffbb00",
+        "#00bbff"
+    ],
+    "paletteGray": [
+        "#000000",
+        "#111111",
+        "#222222",
+        "#333333",
+        "#444444",
+        "#555555",
+        "#666666",
+        "#777777",
+        "#888888",
+        "#999999",
+        "#aaaaaa",
+        "#bbbbbb",
+        "#cccccc",
+        "#dddddd",
+        "#eeeeee",
+        "#ffffff"
+    ]
+}
